@@ -47,6 +47,3 @@ Here are some ideas to get you started:
 
 ### 🤝 Let's Connect
 Whether it's discussing network privacy architectures, collaborating on an open-source project, or talking about live-streaming tech over at *Scripted Labs*, I'm always open to connecting.
-
-*   🔗 **GitHub:** [@Jyotirmay-ai](https://github.com/Jyotirmay-ai) 
-*   🎮 **Content & Streams:** Scripted Labs / Scripted Clutch

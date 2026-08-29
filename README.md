@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 *   **Workflow Automation:** Building the *Smart Receipt & Notes Organizer*, a Python-based desktop tool that intelligently scans and routes student files into semester and subject directories.
 
 ### 🛠️ The Tech Arsenal
-*   **Core Languages:** Python (3.11/3.12), Java (Core & Spring Boot), C
+*   **Core Languages:** Python (3.11/3.12), Java (Core)
 *   **Domain Expertise:** Artificial Intelligence, Computer Vision, Cybersecurity, IoT & Embedded Systems (ESP32/ESP8266, PID Controllers)
 *   **Workflow:** International collaboration, rapid prototyping, and translating complex logic into scalable systems.
 

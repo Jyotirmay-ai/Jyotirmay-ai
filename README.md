@@ -30,14 +30,15 @@ Here are some ideas to get you started:
 *   **Aura Assistant:** Developing an AI voice assistant utilizing Python and NVIDIA NeMo speech-streaming models.
 *   **Bio-Authentication:** Engineered an AI-driven security system that authenticates users based on their unique keystroke dynamics and typing behavior.
 *   **Smart Traffic & ALPR:** Designing a computer vision and edge computing system for urban traffic management, featuring a "Green Wave" signal override for emergency vehicles.
-*   **Workflow Automation:** Building the *Smart Receipt & Notes Organizer*, a Python-based desktop tool that intelligently scans and routes student files into semester and subject directories.
+
 
 ### 🛠️ The Tech Arsenal
-*   **Core Languages:** Python (3.11/3.12), Java (Core)
+*   **Core Languages:** Python (3.11/3.12), 
 *   **Domain Expertise:** Artificial Intelligence, Computer Vision, Cybersecurity, IoT & Embedded Systems (ESP32/ESP8266, PID Controllers)
 *   **Workflow:** International collaboration, rapid prototyping, and translating complex logic into scalable systems.
 
 ### 🏆 Research & Leadership
+*   **SIH Hackathon:** Led *Team 404 Developers* in competitive problem-solving and developed a project on Computer Vision and Blockchain.
 *   **SAMVED Hackathon:** Led *Team 404 Developers* in competitive problem-solving.
 *   **RAFET International Conference:** Authored and presented a technical research paper.
 *   **IBM Z Datathon:** Competed in the 24-hour "Technology for Good" challenge.

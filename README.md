@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 🏆 Research & Leadership
 *   **SIH Hackathon:** Led *Team 404 Developers* in competitive problem-solving and developed a project on Computer Vision and Blockchain.
-*   **SAMVED Hackathon:** Led *Team 404 Developers* in competitive problem-solving.
+*   **SAMVED Hackathon:** Led *Team 404 Developers* in competitive problem-solving (Smart Traffic System).
 *   **RAFET International Conference:** Authored and presented a technical research paper.
 *   **IBM Z Datathon:** Competed in the 24-hour "Technology for Good" challenge.
 *   **Project Nidra:** Selected for specialized image preference and annotation workflows.

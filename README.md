@@ -44,11 +44,6 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=jyotirmay-ai&theme=github-dark&mode=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=jyotirmay-ai&theme=github-dark&mode=dark" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=jyotirmay-ai&theme=github-dark&mode=dark" />
-</picture>
 
 <div align="center">
   <!---->

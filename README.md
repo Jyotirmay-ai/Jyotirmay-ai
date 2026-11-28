@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=jyotirmay-ai&theme=github-dark&mode=dark" alt="jyotirmay-ai's GitHub Stats" width="49%" />
+  <!-- <img src="https://www.gitskins.com/api/section/stats?username=jyotirmay-ai&theme=github-dark&mode=dark" alt="jyotirmay-ai's GitHub Stats" width="49%" /> -->
   <img src="https://streak-stats.demolab.com/?user=jyotirmay-ai&theme=nightowl&hide_border=true&cache_seconds=86400" alt="jyotirmay-ai's GitHub Streak" width="49%" />
 </p>
 

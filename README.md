@@ -8,12 +8,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <!-- <img src="https://www.gitskins.com/api/section/stats?username=jyotirmay-ai&theme=github-dark&mode=dark" alt="jyotirmay-ai's GitHub Stats" width="49%" /> -->
-  <img src="https://streak-stats.demolab.com/?user=jyotirmay-ai&theme=nightowl&hide_border=true&cache_seconds=86400" alt="jyotirmay-ai's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=jyotirmay-ai&theme=nightowl&hide_border=true&cache_seconds=86400" alt="jyotirmay-ai's GitHub Streak"  />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=jyotirmay-ai&theme=github-dark&mode=dark" alt="Top Languages" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=jyotirmay-ai&theme=github-dark&mode=dark" alt="Jyotirmay Biswas's GitHub Trophies" />
 </p>
